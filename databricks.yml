@@ -61,5 +61,5 @@ targets:
       development:
         default: false
     permissions:
-      - service_principal_name: c5770c5f-9736-45c8-b641-59a92592d9a5
+      - service_principal_name: 6c781939-802a-491b-a880-8d98ffa9788f
         level: CAN_MANAGE
